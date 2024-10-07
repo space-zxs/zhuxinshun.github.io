@@ -1,5 +1,5 @@
 # Change baseurl before deploy
-baseurl = " https://space-zxs.github.io/zhuxinshun.github.io/"
+baseurl = "https://space-zxs.github.io/zhuxinshun.github.io/"
 languageCode = "en-us"
 title = "Hugo Theme Stack Starter"
 
